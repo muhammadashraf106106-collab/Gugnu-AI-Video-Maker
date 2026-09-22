@@ -1,0 +1,6 @@
+{
+  "name": "Gugnu AI Video Maker",
+  "description": "Free HD Text to Video Generator - Create cinematic AI videos with multi-track timeline editor, voice changer, camera motion, and 1080p export without watermark.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
